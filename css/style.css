@@ -1,0 +1,407 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+.pre-header1 {
+	background-color: #111618;
+	height: 60px;
+	color: white;
+	padding-top: 15px;
+}	
+.pre-header1 .mmenu{
+	list-style: none;
+}
+.pre-header1 p{
+	text-transform: uppercase;
+}
+.pre-header1 .mmenu a li {
+	color: #b3b5b5;
+	display: inline;
+	margin-left: 20px;
+	text-transform: uppercase;
+
+}
+.pre-header2{
+	background-color: #ffffff;
+	height: 67px;	
+}
+.pre-header2 img{
+	padding-left: 91px;
+	padding-top: 20px;
+}
+.pre-header2 a li{
+	color: #a9a9a9;
+	list-style-type: none;
+	display: inline;
+	margin-left: 7px;
+	text-transform: uppercase;
+}
+.pre-header2 ul{
+	padding-top: 25px;
+}
+.pre-header2  .button {
+	background-color: #571cef;
+	padding: 7px;
+	text-transform: uppercase;
+	border: 1px solid #571cef;
+	color: #ffffff;
+	
+}
+.pre-header2  .button:hover {
+	background-color: transparent;
+	color:#571cef ;
+	text-decoration: none;
+	transition: 0.2s;
+	
+}
+.hero-section {
+	background-image:url('../slike/herobackground.jpg') ;
+	height: 500px;
+}
+.hero-section h1 {
+	padding-top: 161px;
+	text-transform: uppercase;
+	font-size: 60px;
+	color: #ffffff;
+}
+.hero-section p {
+	font-size: 17px;
+	color: #ffffff;
+
+}
+.hero-section .button2 {
+	background-color: #571cef;
+	color: #ffffff;
+	padding: 13px;
+	padding-left: 27px;
+	width: 170px;
+	height: 52px;
+}
+.hero-section .button2:hover {
+	background-color: #ffffff;
+	color: #571cef;
+	border: 1px solid #571cef;
+	transition: 0.3s;
+}
+.service{
+	height: 1000px;
+}
+.service h6 {
+	text-align: center;
+	color: #571cef;
+	padding-top: 104px;
+	text-transform: uppercase;
+}
+.service h2 {
+	padding-top: 30px;
+	text-align: center;
+	text-transform: uppercase;
+}
+.service p {
+	padding: 9px;
+	text-align: center;
+}
+.service .item1 {
+	width: 360px;
+	height: 540px;
+	background-color: #262829;
+}.service .item2 {
+	width: 360px;
+	height: 540px;
+	background-color: #4f1595;
+}
+.service .item3 {
+	width: 360px;
+	height: 540px;
+	background-color: #262829;
+}
+.service .item1  h5 {
+	text-align: center;
+	color: #ffffff;
+}
+.service .item2  h5 {
+	text-align: center;
+	color: #ffffff;
+}
+.service .item3  h5 {
+	text-align: center;
+	color: #ffffff;
+}
+.service .item1  p {
+	text-align: center;
+	color: #ffffff;
+}
+.service .item2  p {
+	text-align: center;
+	color: #ffffff;
+}
+.service .item3  p {
+	text-align: center;
+	color: #ffffff;
+}
+.service .item1 .button3 {
+	text-align: center;
+	width: 157px;
+	background-color: transparent;
+	border: 1px solid #ffffff;
+	margin-left: 115px;
+	text-transform: uppercase;
+}
+.service .item2 .button3 {
+	text-align: center;
+	width: 157px;
+	background-color: transparent;
+	border: 1px solid #ffffff;
+	margin-left: 115px;
+	text-transform: uppercase;
+}
+.service .item3 .button3 {
+	text-align: center;
+	width: 157px;
+	background-color: transparent;
+	border: 1px solid #ffffff;
+	margin-left: 115px;
+	text-transform: uppercase;
+}
+.service .item1 .button3:hover {
+	text-align: center;
+	width: 157px;
+	background-color: #ffffff;
+	border: 1px solid #262829;
+	margin-left: 115px;
+	text-transform: uppercase;
+	color:#262829 ;
+	transition: 0.3s;
+}
+.service .item2 .button3:hover {
+	text-align: center;
+	width: 157px;
+	background-color: #ffffff;
+	border: 1px solid #4f1595;
+	margin-left: 115px;
+	text-transform: uppercase;
+	color: #4f1595 ;
+	transition: 0.3s;
+}
+.service .item3 .button3:hover {
+	text-align: center;
+	width: 157px;
+	background-color: #ffffff;
+	border: 1px solid #262829;
+	margin-left: 115px;
+	text-transform: uppercase;
+	color:#262829 ;
+	transition: 0.3s;
+}
+.works {
+	height: 860px;
+	background-image: url('../slike/works.jpg');
+	background-repeat: no-repeat;
+}
+.works h5{
+	padding-top: 125px;
+	text-align: center;
+	color: #0c93fe;
+	text-transform: uppercase;
+}
+.works h1{
+	padding-top: 40px;
+	color: #ffffff;
+	text-align: center;
+	text-transform: uppercase;
+}
+.works p{
+	color: #ffffff;
+	text-align: center;
+}
+.works img{
+    padding-top: 60px;
+    height: 387px;
+    width: 708px;
+    margin-left: 276px;
+    margin-right: auto;
+}
+.customers h3{
+	margin-left: 78px;
+	padding-bottom: 16px;
+	color: #4c4c4c;
+}
+.customers {
+	height: 448px;
+}
+.customers .customer1 {
+	height: 315px;
+    width: 252px;
+}
+.customers .customer2 {
+	height: 315px;
+    width: 252px;
+}
+.customers .customer3 {
+	height: 315px;
+    width: 252px;
+}
+.customers .customer4 {
+	height: 315px;
+    width: 252px;
+}.customers .customers1 .overlay1 {
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	background-color: #4f1595;
+	overflow: hidden;
+	width: 100%;
+	height: 0;
+	transition: .5s ease
+}
+.customers .customers1:hover .overlay1{
+	height: 100%;
+}
+.customers .customers1 .overlay1 .text1{
+	color: white;
+	font-size: 20px;
+  	position: absolute;
+  	top: 50%;
+  	left: 50%;
+  	-webkit-transform: translate(-50%, -50%);
+  	-ms-transform: translate(-50%, -50%);
+  	transform: translate(-50%, -50%);
+  	text-align: center;
+}
+.form{
+	padding-top: 125px;
+	background-image: url('../slike/form.jpg');
+	height: 806px;
+}
+.form h1 {
+	text-align: center ;
+	text-transform: uppercase;
+	color: #ffffff;
+}
+.form h6 {
+	text-align: center ;
+	text-transform: uppercase;
+	color: #ffffff;
+}
+.form .touch {
+	text-align: left;
+	text-transform: uppercase;
+	color: #ffffff;
+	padding-top: 27px;
+}
+.form hr{
+	width: 360px;
+	border-top: 1px dotted #ffffff;
+}
+.form h3{
+	color: #ffffff;
+	font-size: 30px;
+}
+.form p{
+	color: #ffffff;
+}
+.form form{
+	background-color: #200e36;
+	border: 0.5px solid #4e3959;
+	padding: 53px;
+	margin-top: 60px;
+}
+.form form input {
+	width: 100%;
+	border: 0;
+	height: 30px;
+} 
+.form form button {
+	width: 100%;
+	border: 0;
+	height: 30px;
+	margin-top: 32px;
+	background-color: #0c91fd;
+	color: #ffffff;
+	text-transform: uppercase;
+}
+.form form button:hover {
+	width: 100%;
+	border: 0;
+	height: 30px;
+	margin-top: 32px;
+	background-color: #ffffff;
+	color: #0c91fd;
+	text-transform: uppercase;
+	border: 1px solid #0c91fd;
+	transition: 0.3s;
+}  
+.form form textarea {
+	width: 100%;
+	border: 0;
+	height: 83px;
+}
+label {
+	color: #ffffff;
+} 
+.book{
+	height: 515px;
+	background-image: url('../slike/book.jpg');
+	margin-top: 86px;
+}
+.book img{
+	margin-left: 540px;
+    margin-top: 114px;
+}
+.book h1{
+	color: #ffffff;
+	text-transform: uppercase;
+	text-align: center;
+	margin-top: 30px;
+}
+.book h6{
+	color: #ffffff;
+	text-transform: uppercase;
+	text-align: center;
+	margin-top: 25px;
+}
+.book p{
+	border:1px solid #ffffff;
+	background-color: transparent;
+	width: 140px;
+	height: 50px;
+	margin-left: 540px;
+	color: #ffffff;
+	margin-top: 70px;
+	padding: 12px;
+	padding-left: 25px;
+	text-transform: uppercase;
+}
+.book p:hover {
+	background-color: #ffffff;
+	color: #4f1595;
+	transition: 0.3s;
+}
+.footer{
+	height: 70px;
+	background-color: #111618;
+	margin-top: 17px;
+}
+.footer p {
+	color: #b3b5b6;
+	padding: 22px;
+}
+.footer li {
+	display: inline ;
+	list-style-type: none;
+	color: #b3b5b6;
+	margin-left: 22px;
+}
+.footer ul{
+	margin-top: 22px;
+    padding-left: 128px;
+}
+
+
+
+
+
+
+
